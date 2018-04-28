@@ -1,0 +1,3 @@
+/home/andy/mycode/huawei2018/326/build/CMakeFiles/edit_cache.dir
+/home/andy/mycode/huawei2018/326/build/CMakeFiles/rebuild_cache.dir
+/home/andy/mycode/huawei2018/326/build/CMakeFiles/ecs.dir
